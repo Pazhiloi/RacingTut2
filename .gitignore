@@ -77,3 +77,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/QualityRacing/Logs
+QualityRacing/Logs/AssetImportWorker0.log
+QualityRacing/UserSettings/Layouts/default-2022.dwlt
+QualityRacing/Logs/shadercompiler-UnityShaderCompiler.exe3.log
+QualityRacing/Logs/shadercompiler-UnityShaderCompiler.exe2.log
+QualityRacing/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+QualityRacing/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+QualityRacing/Logs/shadercompiler-AssetImportWorker0.log
+QualityRacing/Logs/AssetImportWorker0.log
